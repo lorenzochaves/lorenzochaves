@@ -25,7 +25,7 @@ These are the tools and environments that I use to develop and manage my project
 
 ### 🚀 Learning  
 I'm always looking to learn and these are some of the technologies I'm interested in exploring:  
-[![My desires](https://skillicons.dev/icons?i=nextjs,nestjs,docker)](https://skillicons.dev)
+[![My desires](https://skillicons.dev/icons?i=nextjs,nestjs,docker, prisma)](https://skillicons.dev)
 
 ---
 
