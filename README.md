@@ -13,7 +13,7 @@
 
 ### 🛠️ My Skills  
 These are the technologies that I have mastered and regularly use in my projects:  
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,tailwind,js,html,css,nodejs,express,postgres,mysql,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,tailwind,js,html,css,nodejs,express,postgres,mysql,aws,jupyter)](https://skillicons.dev)
 
 ---
 
@@ -25,12 +25,12 @@ These are the tools and environments that I use to develop and manage my project
 
 ### 🚀 Learning  
 I'm always looking to learn and these are some of the technologies I'm interested in exploring:  
-[![My desires](https://skillicons.dev/icons?i=nextjs,nestjs,docker, prisma)](https://skillicons.dev)
+[![My desires](https://skillicons.dev/icons?i=nextjs,nestjs,docker,prisma)](https://skillicons.dev)
 
 ---
 
 ### 📊 My Top Languages  
-<img alt="lorenzochaves's top languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzochaves&theme=calm&layout=compact&count_private=true&langs_count=8"/>
+<img alt="lorenzochaves's top languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzochaves&theme=calm&layout=compact&count_private=true&langs_count=8&hide=jupyter%20notebook"/>
 
 ---
 
